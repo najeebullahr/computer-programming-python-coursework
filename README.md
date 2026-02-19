@@ -4,15 +4,23 @@ Master’s Student — Smart Healthcare Management
 National Taipei University, Taiwan 
 
 1. Python Programming Assignments
-1.1. This repository contains my Python programming assignments and practical exercises completed as part of my computer programming coursework. The collection demonstrates the implementation of fundamental programming concepts, structured problem solving, and introductory data analysis using Python.
-1.2. The work reflects my progressive learning and hands-on experience in software development, computational thinking, and data handling techniques.
-1.3. Repository Objectives
-1.4. Practice core Python programming concepts
-1.5. Develop logical and algorithmic problem-solving skills
-1.6. Apply programming knowledge to structured assignments
-1.7. Explore basic data analysis using scientific Python libraries
+1.1. This repository contains my Python programming assignments and practical exercises completed as part of my computer programming coursework.
+   
+1.2 The collection demonstrates the implementation of fundamental programming concepts, structured problem solving, and introductory data analysis using Python.
 
- 2. Contents
+1.3 The work reflects my progressive learning and hands-on experience in software development, computational thinking, and data handling techniques.
+
+1.4 Repository Objectives
+
+1.4. Practice core Python programming concepts
+
+6. Develop logical and algorithmic problem-solving skills
+7. 
+1.7. Apply programming knowledge to structured assignments
+   
+1.8. Explore basic data analysis using scientific Python libraries
+
+ 3. Contents
 2.1. The repository includes the following topics:
 2.2. Python basics and practice exercises
 2.3. Boolean logic and expressions
@@ -21,13 +29,13 @@ National Taipei University, Taiwan
 2.6. Function scope (global and local variables)
 2.7. Conditional statements and loops
 
-3. Python modules
+4. Python modules
 3.1. File handling and CSV processing
 3.2. Numerical computing with NumPy
 3.3. Data manipulation with Pandas
 3.4. Pandas Series and mapping methods
 
-4. Skills Demonstrated
+5. Skills Demonstrated
 4.1. Programming fundamentals
 4.2. Problem-solving and logical reasoning
 4.3. File input/output operations
@@ -35,7 +43,7 @@ National Taipei University, Taiwan
 4.5. Scientific computing
 4.6. Data analysis with Python
 
-5. Technologies Used
+6. Technologies Used
 5.1. Python
 5.2. NumPy
 5.3. Pandas
