@@ -21,7 +21,7 @@ National Taipei University, Taiwan
    
 1.8. Explore basic data analysis using scientific Python libraries
 
- 3. Contents
+ 2. Contents
 
 2.1. The repository includes the following topics:
     
@@ -37,7 +37,7 @@ National Taipei University, Taiwan
 
 2.7. Conditional statements and loops
 
-5. Python modules
+3. Python modules
 
 3.1. File handling and CSV processing
    
@@ -47,7 +47,7 @@ National Taipei University, Taiwan
 
 3.4. Pandas Series and mapping methods
 
-7. Skills Demonstrated
+4. Skills Demonstrated
 
 4.1. Programming fundamentals
    
@@ -61,7 +61,7 @@ National Taipei University, Taiwan
 
 4.6. Data analysis with Python
 
-9. Technologies Used
+5. Technologies Used
 
 5.1. Python
    
@@ -72,10 +72,10 @@ National Taipei University, Taiwan
 5.4. Jupyter Notebook
 
 5. Academic Context
-6. 
+
 5.1 These assignments were completed as part of computer programming coursework to build foundational programming knowledge and practical coding skills.
 
-7. Learning Outcome
+6. Learning Outcome
 
 6.1. Through these assignments, I developed:
    
@@ -87,7 +87,7 @@ National Taipei University, Taiwan
 
 6.5. Practical exposure to data analysis tools
 
-9. Future Improvements
+7. Future Improvements
 
 7.1. Add more advanced Python projects
    
@@ -95,7 +95,7 @@ National Taipei University, Taiwan
 
 7.3. Include visualization and data analysis case studies
 
-11. How to Use
+8. How to Use
 
 8.1. Open any notebook (.ipynb) file to view code and outputs
     
