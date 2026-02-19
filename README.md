@@ -15,8 +15,8 @@ National Taipei University, Taiwan
 
 1.4. Practice core Python programming concepts
 
-6. Develop logical and algorithmic problem-solving skills
-7. 
+1.6 Develop logical and algorithmic problem-solving skills
+   
 1.7. Apply programming knowledge to structured assignments
    
 1.8. Explore basic data analysis using scientific Python libraries
