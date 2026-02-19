@@ -1,9 +1,10 @@
 Author:
 Najeeb Ullah(烏奈吉)
-,Master’s Student — Smart Healthcare Management
+, Master’s Student — Smart Healthcare Management
 National Taipei University, Taiwan 
 
 1. Python Programming Assignments
+   
 1.1. This repository contains my Python programming assignments and practical exercises completed as part of my computer programming coursework.
    
 1.2 The collection demonstrates the implementation of fundamental programming concepts, structured problem solving, and introductory data analysis using Python.
@@ -21,6 +22,7 @@ National Taipei University, Taiwan
 1.8. Explore basic data analysis using scientific Python libraries
 
  3. Contents
+
 2.1. The repository includes the following topics:
     
 2.2. Python basics and practice exercises
@@ -36,6 +38,7 @@ National Taipei University, Taiwan
 2.7. Conditional statements and loops
 
 5. Python modules
+
 3.1. File handling and CSV processing
    
 3.2. Numerical computing with NumPy
@@ -45,6 +48,7 @@ National Taipei University, Taiwan
 3.4. Pandas Series and mapping methods
 
 7. Skills Demonstrated
+
 4.1. Programming fundamentals
    
 4.2. Problem-solving and logical reasoning
@@ -58,6 +62,7 @@ National Taipei University, Taiwan
 4.6. Data analysis with Python
 
 9. Technologies Used
+
 5.1. Python
    
 5.2. NumPy
@@ -71,6 +76,7 @@ National Taipei University, Taiwan
 5.1 These assignments were completed as part of computer programming coursework to build foundational programming knowledge and practical coding skills.
 
 7. Learning Outcome
+
 6.1. Through these assignments, I developed:
    
 6.2. Strong understanding of Python syntax and logic
@@ -82,6 +88,7 @@ National Taipei University, Taiwan
 6.5. Practical exposure to data analysis tools
 
 9. Future Improvements
+
 7.1. Add more advanced Python projects
    
 7.2. Implement machine learning examples
@@ -89,6 +96,7 @@ National Taipei University, Taiwan
 7.3. Include visualization and data analysis case studies
 
 11. How to Use
+
 8.1. Open any notebook (.ipynb) file to view code and outputs
     
 8.2. Run cells sequentially in Jupyter Notebook
